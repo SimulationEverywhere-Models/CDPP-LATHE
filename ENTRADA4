@@ -1,0 +1,25 @@
+00:00:01:00 inVoltaje        380
+00:00:02:00 inOnOff            1
+00:00:10:00 inHerramienta     10
+00:00:20:00 inMaterial       101
+00:00:30:00 inComando          3
+00:00:40:00 inPrograma       550
+00:00:45:00 inPrograma        20
+00:00:50:00 inPrograma     10108
+00:01:01:00 inPrograma     10107
+00:01:10:00 inPrograma     11006
+00:01:40:00 inPrograma     77774
+00:07:10:00 inPrograma    777730
+00:07:20:00 inComando          4
+00:07:30:00 inComando          1
+00:09:40:00 inInfoPortaHerramienta        2
+00:09:41:00 inInfoPortaMaterial           2
+
+
+
+
+
+
+
+
+
